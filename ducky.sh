@@ -10,6 +10,9 @@ tar -xJf arduino-1.8.18-linux64.tar.xz
 sudo  mv arduino-1.8.18 /usr/share
 cd /usr/share/arduino-1.8.18
 sudo ./install.sh
+touch /etc/udev/rules.d/digispark.rules
+echo 'SUBSYSTEM=="usb", ATTR{idVendor}=="16d0", ATTR{idProduct}=="0753", MODE="0660", GROUP="dialout"'> /etc/udev/rules.d/digispark.rules
+
 echo "DONE"
 clear
 echo ""
