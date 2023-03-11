@@ -5,7 +5,7 @@ mkdir Ardino
 cd Ardino
 
 wget 'https://downloads.arduino.cc/arduino-1.8.18-linux64.tar.xz'
-tar -xJf ../Downloads/arduino-1.8.18-linux64.tar.xz
+tar -xJf arduino-1.8.18-linux64.tar.xz
 sudo  mv arduino-1.8.18 /usr/share
 cd /usr/share/arduino-1.8.18
 sudo ./install.sh
