@@ -12,7 +12,7 @@ sudo ./install.sh
 echo "DONE"
 
 echo "Downloading duck2spark"
-cd Ardino
+cd ~/Ardino
 wget https://raw.githubusercontent.com/mame82/duck2spark/master/duck2spark.py
 echo "DONE"
 
