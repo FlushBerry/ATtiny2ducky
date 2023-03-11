@@ -5,19 +5,20 @@ mkdir Ardino
 cd Ardino
 
 wget 'https://downloads.arduino.cc/arduino-1.8.18-linux64.tar.xz'
+wget 'https://raw.githubusercontent.com/mame82/duck2spark/master/duck2spark.py'
 tar -xJf arduino-1.8.18-linux64.tar.xz
 sudo  mv arduino-1.8.18 /usr/share
 cd /usr/share/arduino-1.8.18
 sudo ./install.sh
 echo "DONE"
-
-echo "Downloading duck2spark"
-cd ~/Ardino
-wget https://raw.githubusercontent.com/mame82/duck2spark/master/duck2spark.py
-echo "DONE"
-
-
-echo "STEPS"
+clear
+echo ""
+echo "   ___  _   _  ___ _  ____   __"
+echo " |   \| | | |/ __| |/ /\ \ / /"
+echo " | |) | |_| | (__| ' <  \ V / "
+echo " |___/ \___/ \___|_|\_\  |_|  "
+echo ""
+echo "### -STEPS- ###"
 echo "1- Visit & Encode  https://ducktoolkit.com/encode#"
 echo ""
 echo "2- Digispark compiler with :"
