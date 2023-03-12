@@ -9,6 +9,7 @@ Ducky
 ============
 
 Script ducky.sh "Road to Rubber Ducky"
+
 Kali... OK
 
 Requirements :
