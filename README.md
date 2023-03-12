@@ -22,6 +22,11 @@ Run as SUDO and follow instructions.
 [Ducky.sh](./ducky.sh)
 
 
+## Scripts
+
+[Wallpaper](./wallpaper.duck) - Load a ducky image with chocolate bread.
+
+
 
 ---
 Thanks to 
