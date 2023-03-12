@@ -19,3 +19,14 @@ Run as SUDO and follow instructions.
 
 
 [Ducky.sh](./ducky.sh)
+
+
+
+---
+Thanks to 
+https://k-lfa.info/digispark-hacking/
+https://github.com/k-lfa/fuckyducky
+https://digistump.com/wiki/digispark/tutorials/connecting
+https://github.com/CedArctic/DigiSpark-Scripts
+https://ducktoolkit.com
+http://digistump.com/board/index.php?topic=106.0
