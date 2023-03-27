@@ -24,7 +24,7 @@ Run as SUDO and follow instructions.
 
 ## Scripts
 
-[Wallpaper](./wallpaper.duck) - Load a ducky image with chocolate bread.
+[Wallpaper](./wallpaper.duck) - Load a ducky image with chocolate bread. (win10 only)
 
 
 
